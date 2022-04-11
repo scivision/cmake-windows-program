@@ -1,3 +1,4 @@
+// https://rosettacode.org/wiki/Forest_fire#C.2B.2B
 #include <windows.h>
 #include <string>
 
